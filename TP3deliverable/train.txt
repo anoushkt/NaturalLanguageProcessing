@@ -1,0 +1,57 @@
+She/fp ./.
+She/fp ./.
+She/fp is/v awesome/ad ./.
+She/fp is/v my/pp friend/ad ./.
+I/pp  want/v  sports/n  news/n ./.
+I*/pp am/v hungry/n ./.
+I/pp like/v this/ad ./.
+The/dt news/n ./.
+This/ad is/v bad/ad ./.
+I/pp want/v international/n news/n ./.
+News/n about/ad the/dt world/n ./.
+Hi/gt ./.
+She/fp is/v awesome/ad ./.
+She/fb is/v cool/ad ./.
+He/mp is/v smart/ad ./.
+How/q are/v you/p ./.
+What/qt is/v this/ad ./.
+I/pp  want/v  italian/n  food/n ./.
+The/dt cat/n is/v brown/ad ./.
+How/q ./.
+How/q is/v this/ad ./.
+I/pp am/v sad/n  ./.
+The/dt cat/n ./.
+Hi/gt ./.
+Asian/country food/n is/v awesome/ad ./.
+Italian/country food/n ./.
+Hello/gt ./.
+Hey/gt ./.
+Hey/gt how/q are/v you/p ./.
+Hi/gt how/q are/v you/p ./.
+I/pp do/v not/ng like/v this/ad ./.
+Hey/gt how/q are/v these/ad flowers/n ./.
+What/qt ./.
+hot/wt ./.
+cold/wt./.
+it/p is/v cold/wt ./.
+What/qt is/v this/ad ./.
+This/ad makes/v me/pp angry/n ./.
+She/fp thinks/v this/ad is/v a/a bad/ad idea/n ./.
+He/mp is/v hungry/n ./.
+I/pp think/v ./.
+She/fp wants/v this/ad ./.
+Ok/aff ./.
+Yes/p ./.
+No/n ./.
+She/fp likes/v this/ad ./.
+Angry/n ./.
+I/pp want/v Chinese/n food/n ./.
+I//p want/v Chinese/n news/n ./.
+How/q cold/wt is/v it/p today/t ./.
+What/q is/v the/dt weather/wt today/t ./.
+How/q is/v the/dt weather/wt ./.
+
+
+
+
+
